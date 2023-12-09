@@ -22,6 +22,8 @@
 #include "../zmk-nodefree-config/international_chars/german.dtsi"
 #include "../zmk-nodefree-config/international_chars/greek.dtsi"
 
+ZMK_UNICODE_SINGLE(euro_sign, N2, N0, A, C)
+
 / {
   behaviors {
     #include "macros.dtsi"
