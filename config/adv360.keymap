@@ -68,7 +68,7 @@ ZMK_UNICODE_SINGLE(euro_sign, N2, N0, A, C)
             bindings = <
  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6            &tog 1                                                   &mo 3  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
  &trans  &trans  &trans  &kp &euro_sign  &trans  &trans             &none                                                   &none  &trans  &kp &de_ue  &trans   &kp &de_oe   &trans   &trans
- &trans  &kp &de_ae  &kp &de_eszett  &trans  &kp MINUS  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans   &trans   &trans   &trans
+ &trans  &kp DE_A_UMLAUT  &kp &de_eszett  &trans  &kp MINUS  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &kp &el_mu  &trans   &trans   &trans   &trans
  &trans  &kp EN_ACUTE  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
             >;
